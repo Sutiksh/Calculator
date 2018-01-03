@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button_add">add</string>
+    <string name="button_clear">Clear</string>
+    <string name="enter_number_2">Enter Second Number</string>
+    <string name="enter_number_1">Enter First Number</string>
+    <string name="button_multiply">Multiply</string>
+    <string name="button_divide">DIVIDE</string>
+    <string name="button_sub">SUBTRACT</string>
+    <string name="success">Success!!</string>
+    <string name="failed">Failed!!</string>
+</resources>
